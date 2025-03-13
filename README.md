@@ -4,4 +4,3 @@ start
 
 test1
 
-reset
